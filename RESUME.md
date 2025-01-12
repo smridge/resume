@@ -42,11 +42,11 @@ Experienced software engineering manager with hands on technical experience.
   - Consistently provided structure, organization, and clear direction for developers
 
 **Technologies used**:
-- ![Backend](https://img.shields.io/badge/Backend-gray) `Ruby`, `Ruby on Rails`, `Sidekiq`, `Rspec`, `Capybara`, `MySQL`
-- ![Infrastructure](https://img.shields.io/badge/Infrastructure-gray) `Terraform`, `Python`, `AWS`, `GCP`, `DataDog`, `CircleCI`, `GitHub Actions`
-- ![Data](https://img.shields.io/badge/Data-gray) `Python`, `SQL`, `BigQuery`, `AirFlow`, `Cloud Composer`
-- ![Frontend](https://img.shields.io/badge/Frontend-gray) `javaScript`, `React`, `WebDriverIO`
-- ![Mobile](https://img.shields.io/badge/Mobile-gray) `iOS`, `Android`, `React Native`
+- **Backend**: `Ruby`, `Ruby on Rails`, `Sidekiq`, `Rspec`, `Capybara`, `MySQL`
+- **Infrastructure**: `Terraform`, `Python`, `AWS`, `GCP`, `DataDog`, `CircleCI`, `GitHub Actions`
+- **Data**: `Python`, `SQL`, `BigQuery`, `AirFlow`, `Cloud Composer`
+- **Frontend**: `javaScript`, `React`, `WebDriverIO`
+- **Mobile**: `iOS`, `Android`, `React Native`
 
 ---
 
@@ -69,8 +69,8 @@ Experienced software engineering manager with hands on technical experience.
 - With all of these efforts, a team for application stability and security under my direction was formed with 3 developers assigned to me. All day to day activities were outlined and delegated by me. With a highly targeted focus established, we consistently accomplished reaching our defined goals.
 
 **Technologies used**:
-- ![Backend](https://img.shields.io/badge/Backend-gray) `Ruby`, `Ruby on Rails`, `Sidekiq`, `Rspec`, `Capybara`, `MySQL`
-- ![Infrastructure](https://img.shields.io/badge/Infrastructure-gray) `Terraform`, `Python`, `AWS`, `GCP`, `DataDog`, `CircleCI`, `GitHub Actions`
+- **Backend**: `Ruby`, `Ruby on Rails`, `Sidekiq`, `Rspec`, `Capybara`, `MySQL`
+- **Infrastructure**: `Terraform`, `Python`, `AWS`, `GCP`, `DataDog`, `CircleCI`, `GitHub Actions`
 
 ---
 
