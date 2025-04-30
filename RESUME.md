@@ -11,11 +11,11 @@ Experienced software engineering manager with hands on technical experience.
 
 ## Experience
 ### Engineering Manager at Ellevest
-![Phoenix, AZ | Remote](https://img.shields.io/badge/Phoenix%2C_AZ-Remote-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
+![Scottsdale, AZ | Remote](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
 
 **July 2023 - January 2025**
 
-- Managed multiple distributed software engineering teams dedicated to several domains for financial AI robo-advisor (8 - 12 direct reports)
+- Managed multiple distributed software engineering teams dedicated to several domains for financial AI robo-advisor managing over 2B in Assets Under Management (8 - 12 direct reports)
 
   - **Stability & Security for Backend/Frontend**
     - Created structured processes and workflows for managing application upgrades (`ruby`, `gems`, `nodejs`, `npm`, `iOS SDK`, `Android SDK`)
@@ -114,7 +114,7 @@ Experienced software engineering manager with hands on technical experience.
 ---
 
 ### Software Engineer at HomeLight
-![Scottsdale, AZ](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![PropTech](https://img.shields.io/badge/PropTech-gray)
+![Scottsdale, AZ | Hybrid](https://img.shields.io/badge/Scottsdale%2C_AZ-Hybrid-gray?color=green) ![PropTech](https://img.shields.io/badge/PropTech-gray)
 
 **October 2018 - July 2020**
 
@@ -133,19 +133,8 @@ Experienced software engineering manager with hands on technical experience.
 
 ---
 
-### Software Engineer at BOUJ
-![Remote](https://img.shields.io/badge/Remote-green) ![Freelance](https://img.shields.io/badge/Freelance-gray)
-
-**June 2015 - November 2018**
-
-- Developed and maintained web applications using `Ruby on Rails` as full-stack web framework
-- Constructed database models, code architecture, and layouts for new and existing web applications
-- Implemented responsive design and cross-browser support
-- Provided upgrading services for legacy applications
-- Managed software developer contractors and implemented work scopes
-
 ### Finance and Servicing Supervisor at Homeowners Financial Group
-![Scottsdale, AZ](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![Mortgage](https://img.shields.io/badge/Mortgage-gray)
+![Scottsdale, AZ | On Site](https://img.shields.io/badge/Scottsdale%2C_AZ-On_Site-gray?color=green) ![Mortgage](https://img.shields.io/badge/Mortgage-gray)
 
 **June 2016 - October 2018**
 
@@ -156,6 +145,19 @@ Experienced software engineering manager with hands on technical experience.
 
 #### Technologies used
 - **Backend**: `C#`, `SQL`, `VBA`, `Excel`, `Encompass`
+
+---
+
+### Software Engineer at BOUJ
+![Phoenix, AZ | Remote](https://img.shields.io/badge/Phoenix%2C_AZ-Remote-gray?color=green) ![Freelance](https://img.shields.io/badge/Freelance-gray)
+
+**June 2015 - November 2018**
+
+- Developed and maintained web applications using `Ruby on Rails` as full-stack web framework
+- Constructed database models, code architecture, and layouts for new and existing web applications
+- Implemented responsive design and cross-browser support
+- Provided upgrading services for legacy applications
+- Managed software developer contractors and implemented work scopes
 
 ## Education
 ### Arizona State University
