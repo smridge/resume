@@ -186,6 +186,7 @@ Experienced software engineering manager with hands on technical experience.
 - [`silencer`](https://github.com/stve/silencer), a tool for suppressing rails logs, [github.com/stve/silencer/pull/29](https://github.com/stve/silencer/pull/29)
 
 ## Blog
+- [Documentation Matters: an OpenAPI Coverage Report for Rails Routes with swagcov](https://gitsarah.medium.com/documentation-matters-an-openapi-coverage-report-for-rails-routes-with-swagcov-cd052af69dd2) | May 19th, 2025
 - [Committed to Ruby on Rails](https://gitsarah.medium.com/committed-to-ruby-on-rails-acf022f2c787) | July 2nd, 2023
 - [Hot Keys, Read all About it!](https://gitsarah.medium.com/hot-keys-read-all-about-it-d2af934f26cc) | November 27th, 2020
 - [Using a Postgres Version Manager](https://gitsarah.medium.com/using-a-postgres-version-manager-d59eace01f45) | October 31st, 2020
