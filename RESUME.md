@@ -10,6 +10,25 @@ Experienced software engineering manager with hands on technical experience.
 | [linkedin.com/in/smridge](https://linkedin.com/in/smridge) (LinkedIn) | [gitsarah.medium.com](https://gitsarah.medium.com) (Blog)                                                          |
 
 ## Experience
+### Engineering Manager at Mindr
+![Remote | Contract](https://img.shields.io/badge/Remote-Contract-gray?color=green) ![HRtech](https://img.shields.io/badge/HRtech-gray)
+
+**September 2025 - Current**
+
+- Serving in an advisory leadership role overseeing the engineering team, reporting to CEO
+
+---
+
+### Director of Engineering at Brightside Family Services
+![Remote | Contract](https://img.shields.io/badge/Remote-Contract-gray?color=green) ![Healthcare](https://img.shields.io/badge/Healthcare-gray)
+
+**February 2025 - Current**
+
+- Serving in a fractional leadership role overseeing technology planning and development, reporting to CEO
+- Managing vendor reviews, security protocols, internal/external compliance, and auditing
+
+---
+
 ### Engineering Manager at Ellevest
 ![Scottsdale, AZ | Remote](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
 
