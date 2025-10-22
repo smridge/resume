@@ -10,12 +10,25 @@ Experienced software engineering manager with hands on technical experience.
 | [linkedin.com/in/smridge](https://linkedin.com/in/smridge) (LinkedIn) | [gitsarah.medium.com](https://gitsarah.medium.com) (Blog)                                                          |
 
 ## Experience
+
+### VP of Engineering at Mindr
+![Scottsdale, AZ | Remote](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![HRtech](https://img.shields.io/badge/HRtech-gray)
+
+**October 2025 - Current**
+
+- Managing engineering and infrastructure, reporting to CEO
+- Immediately improved, de-risked, and streamlined code shipping workflows
+  - Increased shipping cadence from once a week to daily
+  - Reduced build pipelines times from over an hour to a few minutes
+
+---
+
 ### Engineering Manager at Mindr
 ![Remote | Contract](https://img.shields.io/badge/Remote-Contract-gray?color=green) ![HRtech](https://img.shields.io/badge/HRtech-gray)
 
-**September 2025 - Current**
+**September 2025 - October 2025**
 
-- Serving in an advisory leadership role overseeing the engineering team, reporting to CEO
+- Served in an advisory leadership role overseeing the engineering team, reporting to CEO
 
 ---
 
