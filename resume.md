@@ -11,6 +11,14 @@ Experienced software engineering manager with hands on technical experience.
 
 ## Experience
 
+### Engineering Manager at Fora Financial
+![Scottsdale, AZ | Remote](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
+
+**December 2025 - Current**
+- Managing the engineering team that supports business loan servicing (4 direct reports)
+
+---
+
 ### Director of Engineering at Brightside Family Services
 ![Remote | Contract](https://img.shields.io/badge/Remote-Contract-gray?color=green) ![Healthcare](https://img.shields.io/badge/Healthcare-gray)
 
@@ -30,6 +38,11 @@ Experienced software engineering manager with hands on technical experience.
 - Immediately improved, de-risked, and streamlined code shipping workflows
   - Increased shipping cadence from once a week to daily
   - Reduced build pipelines times from over an hour to a few minutes
+
+#### Technologies used
+- **Backend**: `Ruby`, `Ruby on Rails`, `Sidekiq`, `Rspec`, `PostgreSQL`
+- **Infrastructure**: `AWS`, `BitBucket`, `Scout`, `Rollbar`, `docker`, `git`
+- **Frontend**: `javaScript`, `TypeScript`, `React`, `jest`, `scss`
 
 ---
 
@@ -157,11 +170,11 @@ Experienced software engineering manager with hands on technical experience.
 ---
 
 ### Finance and Servicing Supervisor at Homeowners Financial Group
-![Scottsdale, AZ | On Site](https://img.shields.io/badge/Scottsdale%2C_AZ-On_Site-gray?color=green) ![Mortgage](https://img.shields.io/badge/Mortgage-gray)
+![Scottsdale, AZ | On Site](https://img.shields.io/badge/Scottsdale%2C_AZ-On_Site-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
 
 **June 2016 - October 2018**
 
-- Managed Interim Servicing & Finance team (3 direct reports)
+- Managed the Interim Servicing & Finance team for mortgage lender (3 direct reports)
 - Streamlined and automated daily tasks with Dashboards, Logs, and Helpers for Investor Accounting, Reconciliations, Warehouse Bank Management, and Purchase Advices
 - Developed detailed trending analysis reporting for executive management
 - Created dynamic scenario loan default probability analysis using internal and external datasets
