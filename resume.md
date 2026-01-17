@@ -15,7 +15,7 @@ Experienced software engineering manager with hands on technical experience.
 ![Scottsdale, AZ | Remote](https://img.shields.io/badge/Scottsdale%2C_AZ-Remote-gray?color=green) ![FinTech](https://img.shields.io/badge/FinTech-gray)
 
 **December 2025 - Current**
-- Managing the engineering team that supports business loan servicing (4 direct reports)
+- Managing a distributed engineering team supporting business loan funding and servicing (4 direct reports)
 
 ---
 
@@ -34,7 +34,7 @@ Experienced software engineering manager with hands on technical experience.
 
 **September 2025 - December 2025**
 
-- Managed the engineering and infrastructure team
+- Managed the engineering and infrastructure team for an employee engagement software solution company
 - Immediately improved, de-risked, and streamlined code shipping workflows
   - Increased shipping cadence from once a week to daily
   - Reduced build pipelines times from over an hour to a few minutes
